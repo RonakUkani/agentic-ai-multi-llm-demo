@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# MacOS specific files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Compiled / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Coverage / testing
+.coverage
+*.cover
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
