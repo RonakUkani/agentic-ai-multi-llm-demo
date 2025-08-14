@@ -18,7 +18,7 @@ def main():
             break
 
         output = run_agent(agent, user_query)
-        print("\n🤖 Bot55:", output)
+        print("\n🤖 Bot:", output)
 
 
 if __name__ == "__main__":
